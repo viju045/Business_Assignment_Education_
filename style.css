@@ -61,7 +61,8 @@ html{
     border: 2px solid gray;
 }
 .background{
-    background: rgba(0,0, 0, 0.7) url('../sc123.jpg');
+    background: rgba(0,0, 0, 0.7) url('![sc123](https://user-images.githubusercontent.com/103639035/218717459-e92b79d0-a237-4703-8cd7-4487295b917b.jpg)
+');
     background-size: cover;
     background-blend-mode: darken;
 }
